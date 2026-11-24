@@ -1,0 +1,8 @@
+Book ID,Title,Author,Category,Total Quantity,Available Copies
+"B101","Java: The Complete Reference","Herbert Schildt","Programming",5,5
+"B102","Data Structures and Algorithms","Narasimha Karumanchi","Computer Science",4,4
+"B103","Clean Code","Robert C. Martin","Programming",3,3
+"B104","Computer Networks","Andrew S. Tanenbaum","Networking",2,2
+"B105","Operating System Concepts","Silberschatz","Computer Science",4,4
+"B1010","Atomics Habits","James","Self-Help",5,5
+"101","Pink","Red","colour",1,1
